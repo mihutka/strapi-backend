@@ -5,7 +5,7 @@ export default [
     config: {
       origin: [
         'http://localhost:3000',
-        'https://<ТВОЙ-ПРОЕКТ>.vercel.app',
+        'https://strapi-frontend-lnnrzn3bu-misabajandinov-5741s-projects.vercel.app/',
       ],
       methods: ['GET','POST','PUT','PATCH','DELETE','HEAD','OPTIONS'],
       headers: ['Content-Type','Authorization','Origin','Accept'],
